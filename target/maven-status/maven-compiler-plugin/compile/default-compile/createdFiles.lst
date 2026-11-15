@@ -1,0 +1,7 @@
+com\mycompany\inventorymanagementsystem\InventoryManagementSystem.class
+com\mycompany\inventorymanagementsystem\Panel.class
+com\mycompany\inventorymanagementsystem\BufferedImageTranscoder.class
+com\mycompany\inventorymanagementsystem\DatabaseConnection.class
+com\mycompany\inventorymanagementsystem\SVGLoader.class
+com\mycompany\inventorymanagementsystem\Label.class
+com\mycompany\inventorymanagementsystem\Frame.class
